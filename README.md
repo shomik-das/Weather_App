@@ -1,4 +1,3 @@
-````
 # Weather App
 ![Weather App](./Weather-1.png)
 ![Weather App](./Weather-2.png)
@@ -22,11 +21,9 @@ A simple and user-friendly weather app built using HTML, CSS, and JavaScript. It
 - OpenWeatherMap API
 
 ## API Key Setup
-```
 1. Sign up at OpenWeatherMap and get your API key.
 2. Locate the JavaScript file in the project.
 3. Find the line where the API key is assigned.
 4. Replace `YOUR_API_KEY` with your actual API key.
 5. Save the file and refresh the app.
-```
 
